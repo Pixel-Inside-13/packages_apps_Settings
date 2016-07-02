@@ -165,4 +165,7 @@
     <string name="navbar_gesture_handle_category">Gesture handle</string>
     <string name="back_gesture_arrow_message">Back gesture animation</string>
     <string name="back_gesture_arrow_summary">Show an animated arrow for back gesture</string>
+
+    <!-- App details: open play store link -->
+    <string name="app_play_store">Google Play</string>
 </resources>
