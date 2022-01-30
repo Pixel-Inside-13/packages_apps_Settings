@@ -128,4 +128,8 @@
     <string name="gesture_navbar_category_title">Navigation bar</string>
     <string name="immersive_navigation_title">Immersive Navigation</string>
     <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
+
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">Ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show ripple effect on unlock with fingerprint</string>
 </resources>
