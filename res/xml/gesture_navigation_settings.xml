@@ -64,6 +64,16 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:title="@string/navbar_gesture_handle_category">
+
+        <com.android.settings.custom.preference.SecureSettingSwitchPreference
+            android:key="show_back_arrow_gesture"
+            android:title="@string/back_gesture_arrow_message"
+            android:summary="@string/back_gesture_arrow_summary"
+            android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="back_sensitivity_category"
         android:persistent="false"
         android:title="@string/back_sensitivity_dialog_title">
@@ -99,4 +109,5 @@
         settings:searchable="false"/>
 
 </PreferenceScreen>
+
 
